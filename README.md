@@ -1,6 +1,6 @@
 ## **Welcome to my page ✨**
 
-I'm Hanna, a frontend developer and aviation enthusiast currently living in Stockholm, Sweden ✈️
+I'm Hanna, a software developer and aviation enthusiast currently living in Stockholm, Sweden ✈️
 
 <!--
 **HannaSwDn/HannaSwDn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
