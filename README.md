@@ -1,4 +1,4 @@
-## **Welcome to my page ✨**
+## **Welcome to my GitHub ✨**
 
 I'm Hanna, a software developer and aviation enthusiast currently living in Stockholm, Sweden ✈️
 
